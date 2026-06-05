@@ -1,0 +1,101 @@
+TransactionID,CustomerName,Category,Product,Quantity,UnitPrice,TotalAmount,City,Region,OrderDate,PaymentMethod,Discount,Status,Rating,Comments
+1,Alice Johnson,Electronics,Laptop,1,999.99,999.99,New York,Northeast,2024-01-05,Credit Card,0.10,Completed,5,Excellent quality
+2,Bob Smith,Books,Python Programming,3,45.50,136.50,Los Angeles,West,2024-01-06,PayPal,0.00,Completed,4,Good book
+3,Carol White,Clothing,Winter Jacket,2,89.99,179.98,Chicago,Midwest,2024-01-07,Credit Card,0.15,Completed,5,Very warm
+4,David Brown,Electronics,Headphones,1,149.99,149.99,Houston,South,2024-01-08,Debit Card,,Completed,3,Average sound
+5,Eva Green,Books,Data Science Handbook,2,55.00,110.00,Phoenix,West,2024-01-09,Credit Card,0.05,Completed,5,Highly recommend
+6,Frank Miller,Clothing,Sneakers,1,120.00,120.00,Philadelphia,South,2024-01-10,PayPal,0.00,Completed,4,Comfortable fit
+7,Grace Lee,Electronics,Tablet,1,450.00,450.00,San Antonio,South,2024-01-11,Credit Card,0.20,Completed,5,Best tablet ever
+8,Henry Wilson,Books,AI Fundamentals,4,35.99,143.96,San Diego,West,2024-01-12,Debit Card,,Completed,4,Great introduction
+9,Ivy Chen,Clothing,Running Shoes,2,95.00,190.00,Dallas,West,2024-01-13,Credit Card,0.10,Completed,5,Perfect for running
+10,Jack Davis,Electronics,Smartwatch,1,299.99,299.99,San Jose,Northeast,2024-01-14,PayPal,0.00,Pending,,
+11,Karen Moore,Books,Machine Learning Guide,1,65.00,65.00,Austin,South,2024-01-15,Credit Card,0.05,Completed,5,Comprehensive content
+12,Leo Taylor,Clothing,Leather Jacket,1,250.00,250.00,Jacksonville,South,2024-01-16,Debit Card,,Completed,4,Fine quality
+13,Mia Anderson,Electronics,Monitor,2,350.00,700.00,Fort Worth,South,2024-01-17,Credit Card,0.10,Completed,5,Crystal clear display
+14,Noah Thomas,Books,Web Development,3,42.00,126.00,Columbus,Midwest,2024-01-18,PayPal,0.00,Completed,4,Well structured
+15,Olivia Jackson,Clothing,Summer Dress,2,65.00,130.00,Charlotte,Northeast,2024-01-19,Credit Card,,Completed,3,Color faded after wash
+16,Peter Harris,Electronics,Keyboard,1,75.00,75.00,San Francisco,West,2024-01-20,Debit Card,0.00,Completed,4,Nice mechanical keys
+17,Quinn Martin,Clothing,Wool Sweater,3,55.00,165.00,Indianapolis,South,2024-01-21,Credit Card,0.15,Completed,5,Soft and warm
+18,Rachel Garcia,Books,Deep Learning,2,70.00,140.00,Seattle,West,2024-01-22,PayPal,,Completed,5,Advanced but clear
+19,Sam Robinson,Electronics,Mouse,1,45.00,45.00,Denver,Northeast,2024-01-23,Credit Card,0.00,Pending,4,Ergonomic design
+20,Tina Clark,Books,Statistics Primer,1,48.00,48.00,Washington,Northeast,2024-01-24,Debit Card,0.05,Completed,3,Too basic for me
+21,Uma Lewis,Clothing,Denim Jeans,2,75.00,150.00,Nashville,South,2024-01-25,Credit Card,,Completed,4,Good fit and style
+22,Victor Walker,Electronics,Webcam,1,89.99,89.99,Boston,Midwest,2024-01-26,PayPal,0.10,Completed,5,Great for video calls
+23,Wendy Hall,Books,NLP with Python,2,58.00,116.00,Detroit,Midwest,2024-01-27,Credit Card,,Completed,4,Practical examples
+24,Xander Allen,Clothing,Silk Scarf,1,45.00,45.00,Portland,West,2024-01-28,Debit Card,0.00,Completed,3,Delicate fabric
+25,Yara Young,Electronics,USB Hub,3,29.99,89.97,Milwaukee,South,2024-01-29,Credit Card,0.05,Completed,4,Works as expected
+26,Zack King,Books,Cloud Computing,1,62.00,62.00,Albuquerque,Northeast,2024-01-30,PayPal,,Pending,,
+27,Amy Scott,Clothing,Cotton T-Shirt,5,25.00,125.00,Tucson,South,2024-01-31,Credit Card,0.20,Completed,5,Bulk purchase worth it
+28,Brian Green,Electronics,SSD Drive,2,120.00,240.00,Fresno,Midwest,2024-02-01,Debit Card,,Completed,5,Lightning fast
+29,Cindy Adams,Books,DevOps Handbook,1,55.00,55.00,Sacramento,Northeast,2024-02-02,Credit Card,0.00,Completed,4,Essential reading
+30,Dan Baker,Clothing,Polo Shirt,2,40.00,80.00,Kansas City,Midwest,2024-02-03,PayPal,0.10,Completed,3,Runs small
+31,Ella Nelson,Electronics,Router,1,199.99,199.99,Atlanta,Northeast,2024-02-04,Credit Card,,Completed,5,Excellent range
+32,Felix Carter,Books,Blockchain Basics,2,47.00,94.00,Miami,South,2024-02-05,Debit Card,0.05,Completed,4,Interesting topic
+33,Gina Mitchell,Clothing,Blazer,1,135.00,135.00,Omaha,Northeast,2024-02-06,Credit Card,,Completed,4,Professional look
+34,Hugo Roberts,Electronics,Speaker,2,85.00,170.00,Raleigh,South,2024-02-07,PayPal,0.15,Completed,5,Bass is amazing
+35,Iris Turner,Books,Cybersecurity Guide,1,68.00,68.00,Minneapolis,Midwest,2024-02-08,Credit Card,0.00,Completed,5,Detailed and practical
+36,Jake Phillips,Clothing,Hoodie,3,50.00,150.00,Tulsa,South,2024-02-09,Debit Card,,Completed,4,Cozy and warm
+37,Kira Campbell,Electronics,Printer,1,220.00,220.00,Wichita,Northeast,2024-02-10,Credit Card,0.10,Pending,,
+38,Liam Parker,Books,Software Architecture,2,75.00,150.00,Baltimore,Midwest,2024-02-11,PayPal,,Completed,5,Deep insights
+39,Mona Evans,Clothing,Sandals,1,60.00,60.00,Louisville,South,2024-02-12,Credit Card,0.00,Completed,3,Uncomfortable sole
+40,Nate Edwards,Electronics,Cable Pack,4,15.99,63.96,Pittsburgh,Midwest,2024-02-13,Debit Card,,Completed,4,Good variety
+41,Opal Collins,Clothing,Cardigan,2,70.00,140.00,St. Louis,Northeast,2024-02-14,Credit Card,0.05,Completed,5,Beautiful knit
+42,Pete Stewart,Books,API Design,1,52.00,52.00,Bakersfield,South,2024-02-15,PayPal,,Completed,4,Practical patterns
+43,Rosa Sanchez,Electronics,Docking Station,1,175.00,175.00,Tampa,Northeast,2024-02-16,Credit Card,0.10,Completed,5,All-in-one solution
+44,Seth Morris,Books,Agile Manifesto,3,38.00,114.00,Arlington,South,2024-02-17,Debit Card,0.00,Completed,3,Too theoretical
+45,Tara Rogers,Clothing,Leggings,2,45.00,90.00,New Orleans,South,2024-02-18,Credit Card,,Completed,4,Stretchy and comfy
+46,Ulrich Reed,Electronics,Power Bank,2,55.00,110.00,Wichita Falls,South,2024-02-19,PayPal,0.05,Completed,4,Holds charge well
+47,Vera Cook,Books,Docker Deep Dive,1,60.00,60.00,Spokane,Northeast,2024-02-20,Credit Card,,Completed,5,Container mastery
+48,Wade Morgan,Clothing,Tie Set,3,30.00,90.00,Desert Hot Springs,West,2024-02-21,Debit Card,0.00,Completed,3,Colors not as shown
+49,Xena Bell,Electronics,Charger,1,35.00,35.00,Santa Fe,Northeast,2024-02-22,Credit Card,0.10,Completed,5,Fast charging
+50,Yuri Murphy,Books,Kubernetes Guide,2,72.00,144.00,Albany,Midwest,2024-02-23,PayPal,,Pending,5,Orchestration expert
+51,Zara Bailey,Clothing,Pajamas,2,55.00,110.00,Rochester,South,2024-02-24,Credit Card,,Completed,4,Silk touch fabric
+52,Alex Rivera,Electronics,Drone,1,599.99,599.99,Grand Rapids,Midwest,2024-02-25,Debit Card,0.15,Completed,5,Aerial photography beast
+53,Bella Cooper,Clothing,Blouse,1,65.00,65.00,Huntsville,South,2024-02-26,Credit Card,0.00,Completed,4,Elegant design
+54,Carl Hughes,Books,TensorFlow Cookbook,3,48.00,144.00,Fayetteville,Northeast,2024-02-27,PayPal,,Completed,5,Hands-on ML
+55,Dana Price,Electronics,Camera,1,850.00,850.00,Columbia,South,2024-02-28,Credit Card,0.20,Completed,5,Pro-grade photos
+56,Eric Ward,Clothing,Belt,2,35.00,70.00,Charleston,Midwest,2024-03-01,Debit Card,,Completed,3,Buckle broke quickly
+57,Faye Torres,Books,Pandas Cookbook,1,58.00,58.00,Sioux Falls,Northeast,2024-03-02,Credit Card,0.05,Completed,5,Data manipulation gold
+58,Glen Peterson,Electronics,Projector,1,450.00,450.00,Pueblo,South,2024-03-03,PayPal,,Completed,4,Good brightness
+59,Holly Gray,Clothing,Boots,1,180.00,180.00,Lansing,Midwest,2024-03-04,Credit Card,,Completed,5,Winter essential
+60,Ian Ramirez,Books,React Patterns,2,55.00,110.00,Tallahassee,South,2024-03-05,Debit Card,0.10,Completed,4,Component design tips
+61,Jade James,Electronics,External HDD,3,75.00,225.00,Providence,Northeast,2024-03-06,Credit Card,,Completed,4,Reliable storage
+62,Kyle Watson,Clothing,Socks Pack,6,12.00,72.00,Overland Park,South,2024-03-07,PayPal,0.00,Completed,5,Value pack
+63,Luna Brooks,Books,Django Web Dev,1,62.00,62.00,Greensboro,Midwest,2024-03-08,Credit Card,0.05,Completed,5,Build full-stack apps
+64,Mike Kelly,Electronics,LED Monitor,2,280.00,560.00,Plano,Northeast,2024-03-09,Debit Card,,Completed,4,Ultra-wide viewing
+65,Nina Howard,Clothing,Gloves,2,28.00,56.00,Hilary,West,2024-03-10,Credit Card,,Completed,3,Thinner than expected
+66,Oscar Ward,Books,Spring Boot,1,70.00,70.00,Newark,Midwest,2024-03-11,PayPal,0.15,Completed,5,Java backend mastery
+67,Pia Cox,Electronics,Noise Canceller,1,350.00,350.00,Garland,South,2024-03-12,Credit Card,,Completed,5,Silence is golden
+68,Rex Diaz,Clothing,Shorts,3,32.00,96.00,Hialeah,Northeast,2024-03-13,Debit Card,0.00,Completed,4,Breathable fabric
+69,Skyler Hughes,Books,Node.js Design,2,58.00,116.00,Reno,South,2024-03-14,Credit Card,,Pending,,
+70,Troy Flores,Clothing,Hat,1,25.00,25.00,Chesapeake,Northeast,2024-03-15,PayPal,0.05,Completed,3,Sizing runs large
+71,Ursula Washington,Electronics,Smart Bulb,4,22.00,88.00,Gilbert,South,2024-03-16,Credit Card,,Completed,4,Great for home automation
+72,Vince Butler,Books,Microservices,1,65.00,65.00,Baton Rouge,Midwest,2024-03-17,Debit Card,,Completed,5,Architecture patterns
+73,Willa Simmons,Clothing,Sunglasses,1,95.00,95.00,Irving,Northeast,2024-03-18,Credit Card,0.10,Completed,5,Polarized lenses perfect
+74,Xavier Foster,Electronics,Smart Speaker,2,129.00,258.00,Laredo,South,2024-03-19,PayPal,,Completed,4,Voice assistant works well
+75,Yvonne Gonzales,Clothing,Tank Top,4,18.00,72.00,Norfolk,Midwest,2024-03-20,Credit Card,,Completed,5,Summer wardrobe staple
+76,Zane Bryant,Books,TypeScript Handbook,1,55.00,55.00,Boise,South,2024-03-21,Debit Card,0.00,Completed,4,Strong typing explained well
+77,Aria Alexander,Electronics,VR Headset,1,399.00,399.00,Birmingham,Northeast,2024-03-22,Credit Card,0.20,Completed,5,Immersive experience
+78,Ben Russell,Clothing,Sweatpants,2,42.00,84.00,Rochester,Midwest,2024-03-23,PayPal,,Completed,3,Pilling after few washes
+79,Cleo Griffin,Books,Elasticsearch Guide,2,68.00,136.00,San Bernardino,Northeast,2024-03-24,Credit Card,,Completed,5,Search engine mastery
+80,Drew Hayes,Electronics,Graphics Card,1,750.00,750.00,Billings,South,2024-03-25,Debit Card,,Completed,5,Gaming performance beast
+81,Elena Myers,Clothing,Pumps,1,85.00,85.00,Henderson,Northeast,2024-03-26,Credit Card,0.05,Completed,4,Heel too high for me
+82,Finn Ford,Books,Git Pro Tips,1,42.00,42.00,Vancouver,South,2024-03-27,PayPal,,Completed,5,Version control wizardry
+83,Gemma Hamilton,Electronics,Tablet Stand,3,25.00,75.00,Cedar Rapids,Midwest,2024-03-28,Credit Card,,Completed,4,Sturdy aluminum build
+84,Hank Graham,Clothing,Vest,1,75.00,75.00,Eugene,South,2024-03-29,Debit Card,0.10,Completed,5,Winter layering essential
+85,Isla Sullivan,Books,Flutter Development,2,60.00,120.00,Sacramento,Northeast,2024-03-30,Credit Card,,Completed,4,Cross-platform mobile guide
+86,Jude Wallace,Electronics,Smart Thermostat,1,250.00,250.00,South Bend,Midwest,2024-03-31,PayPal,,Pending,5,Energy saving genius
+87,Kate West,Clothing,Scarf,2,35.00,70.00,Peoria,Northeast,2024-04-01,Credit Card,,Completed,3,Fringed edges unraveling
+88,Luke Jordan,Books,GraphQL Guide,1,58.00,58.00,Pembroke Pines,South,2024-04-02,Debit Card,0.05,Completed,4,API query patterns
+89,Maya O'Brien,Electronics,Fitness Tracker,2,150.00,300.00,Hollywood,Midwest,2024-04-03,Credit Card,,Completed,5,Health tracking accurate
+90,Nick Sanders,Books,Svelte Handbook,1,52.00,52.00,Mesquite,Northeast,2024-04-04,PayPal,,Completed,3,Too new ecosystem
+91,Olive Price,Clothing,Coat,1,200.00,200.00,Syracuse,South,2024-04-05,Credit Card,0.15,Completed,5,Winter warmth champion
+92,Paxton Ross,Electronics,Smart Lock,1,180.00,180.00,Murfreesboro,Midwest,2024-04-06,Debit Card,,Completed,4,Fingerprint works great
+93,Ruby Coleman,Clothing,Skirt,2,55.00,110.00,Killeen,Northeast,2024-04-07,Credit Card,,Completed,4,Pleated design flattering
+94,Samir Jenkins,Books,Redis Cookbook,1,62.00,62.00,Frisco,South,2024-04-08,PayPal,,Completed,5,In-memory data structures
+95,Tess Perry,Electronics,Robot Vacuum,1,350.00,350.00,Yorba Linda,Midwest,2024-04-09,Credit Card,0.10,Completed,5,Clean floors automatically
+96,Umar Powell,Clothing,Bandana,5,8.00,40.00,Carrollton,Northeast,2024-04-10,Debit Card,,Completed,3,Colors bleed in wash
+97,Violet Long,Books,PostgreSQL Guide,2,65.00,130.00,Coral Springs,South,2024-04-11,Credit Card,,Completed,5,Database optimization tips
+98,Wesley Patterson,Electronics,Smart Plug,4,15.00,60.00,McAllen,Midwest,2024-04-12,PayPal,0.05,Completed,4,IOT starter pack essential
+99,Zara Hughes,Clothing,Swimwear,1,75.00,75.00,Ann Arbor,Northeast,2024-04-13,Credit Card,,Completed,5,Beach day ready
+100,Aaron Flores,Books,MongoDB Design,1,70.00,70.00,Gainesville,South,2024-04-14,Debit Card,,Pending,5,NoSQL document patterns
